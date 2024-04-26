@@ -14,7 +14,7 @@
 ## 使用方式
 1. 下载插件:GitHub下载Jar文件上传或去官方应用市场下载（暂时等待通知上架！）
 2. 配置插件信息，具体使用文档请[点击此处查看](https://www.wenjing.xin/archives/407506e2-ce19-43bb-a7ee-4e92e054a91e)
-
+3、网盘下载：[链接在这儿](https://pan.baidu.com/s/1MH3-BuwdPQNrfFaS0JBb2w?pwd=njka)
 ## 开发环境
 [插件开发的详细文档](https://docs.halo.run/developer-guide/plugin/introduction)
 
@@ -37,7 +37,7 @@
 ## 插件交流群
 QQ群，加群后管理员自动审核
 <div>
-&emsp;&emsp;<img src="./docsImg/QQ.png" width=150px />
+&emsp;&emsp;<img src="./docsImg/qq.png" width=150px />
 </div>
 
 ## 🔐 许可
