@@ -1,8 +1,13 @@
 # link-security-detect
 
-`链接安全检测插件，为你的halo博客站点添加一个安全跳转中台！`
+`链接安全跳转中台，为你的halo博客站点添加一个安全跳转中台！`
 
 ![](https://github.com/wenjing-xin/link-security-detect/assets/130843859/05b75319-088f-42a0-bd44-e51e6d09aadb)
+
+![downlaod](https://github.com/wenjing-xin/plugins-links-security-detect/assets/130843859/a3026570-2a67-466e-89e5-6a15a8cd070f)
+
+## 声明
+> 此插件为闭源项目，代码会经过官方审查，请放心使用！请勿用于其他非法用途，否则后果自负！
 
 ## 插件主要功能：
 - 文章页链接加入安全跳转中台
@@ -14,9 +19,7 @@
 ## 使用方式
 1. 下载插件:GitHub下载Jar文件上传或去官方应用市场下载（暂时等待通知上架！）
 2. 配置插件信息，具体使用文档请[点击此处查看](https://www.wenjing.xin/archives/407506e2-ce19-43bb-a7ee-4e92e054a91e)
-3、网盘下载：[链接在这儿](https://pan.baidu.com/s/1MH3-BuwdPQNrfFaS0JBb2w?pwd=njka)
-## 开发环境
-[插件开发的详细文档](https://docs.halo.run/developer-guide/plugin/introduction)
+3. 网盘下载：[链接在这儿](https://pan.baidu.com/s/1MH3-BuwdPQNrfFaS0JBb2w?pwd=njka)
 
 ## TODO
 - [x] 增加链接管理插件数据是否兼容的自定义配置
@@ -39,9 +42,6 @@ QQ群，加群后管理员自动审核
 <div>
 &emsp;&emsp;<img src="./docsImg/qq.png" width=150px />
 </div>
-
-## 🔐 许可
-[link-security-detect](https://github.com/wenjing-xin/link-security-detect) 使用 [GPL-v3.0](./LICENSE) 协议开源，请遵守开源协议。
 
 > 本项目使用 JetBrains IDEA 进行开发
 > <a href="https://www.jetbrains.com/?from=Toolkit"><img src="https://cdn.jsdelivr.net/gh/liuzhihang/oss/pic/article/jetbrains-logo-MrNwcp.png" width="10%" height="10%"></a>
