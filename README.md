@@ -2,9 +2,8 @@
 
 `链接安全跳转中台，为你的halo博客站点添加一个安全跳转中台！`
 
-![](./docsImg/halo-lsd.png)
-
-![downlaod](./docsImg/download.png)
+![halo-lsd](https://github.com/wenjing-xin/plugins-links-security-detect/assets/130843859/c6980858-1c58-4641-b2f7-7351cf61982e)
+![download](https://github.com/wenjing-xin/plugins-links-security-detect/assets/130843859/b018c139-0172-4c0d-a535-969ece514839)
 
 ## 声明
 > 此插件为闭源项目，代码会经过官方审查，请放心使用！请勿用于其他非法用途，否则后果自负！
@@ -32,15 +31,13 @@
 - [ ] 增加主题内置页面的链接安全跳转中台
 ## 赞助我
 如果你感觉这个插件还不错，请我喝杯咖啡☕️☕️☕️
-<div>
-&emsp;&emsp;<img src="./docsImg/wxpay.png" width=150px />
-&emsp;&emsp;<img src="./docsImg/alipay.png" width=150px />
-</div>
+
+[爱发电⚡️](https://afdian.net/a/wb258123)
 
 ## 插件交流群
 QQ群，加群后管理员自动审核
 <div>
-&emsp;&emsp;<img src="./docsImg/qq.png" width=150px />
+&emsp;&emsp;<img src="https://github.com/wenjing-xin/plugins-links-security-detect/assets/130843859/472abfb6-539f-4b3f-a292-c5f85c9f7d2e" width=150px />
 </div>
 
 > 本项目使用 JetBrains IDEA 进行开发
