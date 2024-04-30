@@ -2,9 +2,9 @@
 
 `链接安全跳转中台，为你的halo博客站点添加一个安全跳转中台！`
 
-![](https://github.com/wenjing-xin/link-security-detect/assets/130843859/05b75319-088f-42a0-bd44-e51e6d09aadb)
+![](./docsImg/halo-lsd.png)
 
-![downlaod](https://github.com/wenjing-xin/plugins-links-security-detect/assets/130843859/a3026570-2a67-466e-89e5-6a15a8cd070f)
+![downlaod](./docsImg/download.png)
 
 ## 声明
 > 此插件为闭源项目，代码会经过官方审查，请放心使用！请勿用于其他非法用途，否则后果自负！
