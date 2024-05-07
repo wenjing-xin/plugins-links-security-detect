@@ -1,8 +1,7 @@
 # link-security-detect
 
 `链接安全跳转中台，为你的halo博客站点添加一个安全跳转中台！`
-
-![halo-lsd](https://github.com/wenjing-xin/plugins-links-security-detect/assets/130843859/c6980858-1c58-4641-b2f7-7351cf61982e)
+![verison-new](https://github.com/wenjing-xin/plugins-links-security-detect/assets/130843859/f414a5c0-626f-4666-983b-dca984c7ca9d)
 ![download](https://github.com/wenjing-xin/plugins-links-security-detect/assets/130843859/b018c139-0172-4c0d-a535-969ece514839)
 
 ## 声明
