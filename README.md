@@ -13,18 +13,18 @@
 ![download](https://github.com/wenjing-xin/plugins-links-security-detect/assets/130843859/b018c139-0172-4c0d-a535-969ece514839)
 
 ### 2、极客风格的跳转中台
-普通链接
+普通链接<br />
 ![普通链接](./docs/terminal-normal.gif)
 
-下载链接
+下载链接<br />
 ![下载链接](./docs/terminal-download.gif)
 
 ### 3、简约风格的跳转中台
 
-系统亮色模式下
+系统亮色模式下<br />
 ![下载链接](./docs/simple-light.png)
 
-系统暗色模式下
+系统暗色模式下<br />
 ![下载链接](./docs/simple-dark.png)
 
 ## 二、声明
