@@ -4,6 +4,8 @@
 
 [详细文档](https://blog.wenjing.xin/docs/halo-plugins/lsd-plugin/introduce)
 
+[插件获取地址](https://webjing.com/signup)
+
 ## 一、效果预览
 ### 1、默认风格的中台模版
 
